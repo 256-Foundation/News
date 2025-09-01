@@ -1,9 +1,10 @@
-# 256 Foundation Newsletter
+<h1 align="center">256 Foundation Newsletter</h1>
 <p align="center">
   <img width="500" src="/feb-newsletter.png">
 </p>
 
-Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, grant project updates, actionable advice, and the state of network. Newsletters are published monthly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your email inbox. You can also find the newsletters published on <a href="https://primal.net/p/nprofile1qqs8aa03k9tw5hn7n7dhslme2xedzq0h0qrpv75dgjc3g69ppc8u6fcqy6qhv" target="_blank" rel="noopener noreferrer"><font color="orange">Nostr</font></a>.
+<p align="center">
+Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, grant project updates, actionable advice, and the state of network. Newsletters are published monthly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your email inbox. You can also find the newsletters published on <a href="https://primal.net/p/nprofile1qqs8aa03k9tw5hn7n7dhslme2xedzq0h0qrpv75dgjc3g69ppc8u6fcqy6qhv" target="_blank" rel="noopener noreferrer"><font color="orange">Nostr</font></a>.</p>
 
 <p align="center">
       <a href="https://proto.xyz/" target="_blank" rel="noopener noreferrer"><img width="500" src="/proto-support-ko.jpg"></a>
@@ -11,7 +12,7 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
 
 <br>
   
-# DOWNLOAD
+<h1 align="center">DOWNLOAD</h1>
 
 <p align="center"><a href="/newsletters/256Foundation-Newsletter-2508_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">August 2025 - Is Open Source Communism?</font></a></p>
 
@@ -31,15 +32,15 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
     
 <br>
 
-# SUBSCRIBE
-<div class="iframe-container">
+<h1 align="center">SUBSCRIBE</h1>
+<div class="iframe-container" align="center">
 <iframe src="https://256foundation.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <br>
 
-# SUPPORT
+<h1 align="center">SUPPORT</h1>
 
-Want to support this awesome newsletter? Make a tax deductible donation in bitcoin or fiat [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)!
+<p align="center">Want to support this awesome newsletter? Make a tax deductible donation in bitcoin or fiat <a href="https://pay.zaprite.com/pl_ZRWeSGjRWG" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>!</p>
 
-You can also support the 256 Foundation Newsletter directly and privately with our [PayNym](https://paynym.rs/+appetizingadministration90) or support the newsletter with your [hashrate](https://256foundation.org/mining_links.html).
+<p align="center">You can also support the 256 Foundation Newsletter directly and privately with our <a href="https://paynym.rs/+appetizingadministration90" target="_blank" rel="noopener noreferrer"><font color="orange">PayNym</font></a> or support the newsletter with your <a href="https://256foundation.org/mining_links.html" target="_blank" rel="noopener noreferrer"><font color="orange">hashrate</font></a>.</p>

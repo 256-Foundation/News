@@ -13,27 +13,27 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
   
 # DOWNLOAD
 
-[August 2025 - Is Open Source Communism?](/256Foundation-Newsletter-2508_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2508_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">August 2025 - Is Open Source Communism?</font></a></p>
 
-[July 2025 - The Bigger They Are, The Harder They Fall](/256Foundation-Newsletter-2507_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2507_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">July 2025 - The Bigger They Are, The Harder They Fall</font></a></p>
 
-[June 2025 - You know, I'm something of a Decentralized Pool Myself](/256Foundation-Newsletter-2506_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2506_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">June 2025 - You know, I'm something of a Decentralized Pool Myself</font></a></p>
 
-[May 2025 - Bitcoin Mining Will Not Be Decentralized Until It Is Open Sourced](/256Foundation-Newsletter-2505_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2505_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">May 2025 - Bitcoin Mining Will Not Be Decentralized Until It Is Open Sourced</font></a></p>
 
-[April 2025 - I'm The Block Miner Now](/256Foundation-Newsletter-2504_v2.pdf)
-    
-[March 2025 - Summer Is Coming](/256Foundation-Newsletter-2503_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2504_v2.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">April 2025 - I'm The Block Miner Now</font></a></p>
 
-[February 2025 - Swim At Your Own Risk](/256Foundation-Newsletter-2502_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2503_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">March 2025 - Summer Is Coming</font></a></p>
 
-[January 2025 - A Spark of Defiance](256Foundation-Newsletter-2501_v1.pdf)
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2502_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">February 2025 - Swim At Your Own Risk</font></a></p>
+
+<p align="center"><a href="/newsletters/256Foundation-Newsletter-2501_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">January 2025 - A Spark of Defiance</font></a></p>
     
 <br>
 
 # SUBSCRIBE
 <div class="iframe-container">
-<iframe style="display:block; margin:auto; background:white;" src="https://256foundation.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://256foundation.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <br>

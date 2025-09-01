@@ -6,7 +6,7 @@
 Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, grant project updates, actionable advice, and the state of network. Newsletters are published monthly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your email inbox. You can also find the newsletters published on <a href="https://primal.net/p/nprofile1qqs8aa03k9tw5hn7n7dhslme2xedzq0h0qrpv75dgjc3g69ppc8u6fcqy6qhv" target="_blank" rel="noopener noreferrer"><font color="orange">Nostr</font></a>.
 
 <p align="center">
-      <a href="https://proto.xyz/" target="_blank" rel="noopener noreferrer"><img width="500" src=/proto-support-ko.jpg></a>
+      <a href="https://proto.xyz/" target="_blank" rel="noopener noreferrer"><img width="500" src="/proto-support-ko.jpg"></a>
     </p>
 
 <br>

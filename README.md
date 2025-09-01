@@ -1,10 +1,15 @@
 # 256 Foundation Newsletter
-![](/feb-newsletter.png)
+<p align="center">
+  <img width="500" src="/feb-newsletter.png">
+</p>p
 
 Stay up to date with the latest freedom tech news, free & open Bitcoin mining developments, grant project updates, actionable advice, and the state of network. Newsletters are published monthly. Below, you can download .pdf versions of the newsletter or you can subscribe and have newsletters delivered straight to your email inbox. You can also find the newsletters published on <a href="https://primal.net/p/nprofile1qqs8aa03k9tw5hn7n7dhslme2xedzq0h0qrpv75dgjc3g69ppc8u6fcqy6qhv" target="_blank" rel="noopener noreferrer"><font color="orange">Nostr</font></a>.
 
-[![Supported by Proto](/proto-support-ko.jpg)](https://proto.xyz/ "Supported by Proto")
+<p align="center">
+      <a href="https://proto.xyz/" target="_blank" rel="noopener noreferrer"><img width="500" src=/proto-support-ko.jpg></a>
+    </p>
 
+<br>
   
 # DOWNLOAD
 
@@ -24,10 +29,14 @@ Stay up to date with the latest freedom tech news, free & open Bitcoin mining de
 
 [January 2025 - A Spark of Defiance](256Foundation-Newsletter-2501_v1.pdf)
     
+<br>
+
 # SUBSCRIBE
 <div class="iframe-container">
 <iframe style="display:block; margin:auto; background:white;" src="https://256foundation.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
 </div>
+
+<br>
 
 # SUPPORT
 
